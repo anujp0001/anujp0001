@@ -1,14 +1,4 @@
-Your README.md — Ready to paste
-⚠️ You pasted the wrong text! Use this code below instead
-📋 Copy README
-⚠️
-You're in the right place! The editor is open. Now:
-1. Press Ctrl + A to select all the text in the editor
-2. Press Delete to clear it
-3. Click "Copy README" button above
-4. Press Ctrl + V to paste
-5. Click the green "Commit changes..." button
-anujp0001/README.md — copy everything below
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F97316¢er=true&width=600&lines=Hi+I'm+Anuj+%F0%9F%91%8B;Passionate+Java+Developer+%E2%98%95;Building+Smart+Home+Automation+%F0%9F%8F%A0;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </h1>
