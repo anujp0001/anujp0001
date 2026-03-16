@@ -1,6 +1,7 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F97316¢er=true&width=600&lines=Hi+I'm+Anuj+%F0%9F%91%8B;Passionate+Java+Developer+%E2%98%95;Building+Smart+Home+Automation+%F0%9F%8F%A0;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F97316¢er=true&width=600&lines=Hi+I'm+Anuj+%F0%9F%91%8B;Passionate+Java+Developer+%E2%98%95;Building+Smart+Home+Automation+%F0%9F%8F%A0;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Hi there 👋
+— Anuj" />
 </h1>
 
 <p align="center">
